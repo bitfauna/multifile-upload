@@ -15,7 +15,7 @@ Then, on the page that receives the form submission, make the following function
 uploadedFiles = UploadMultipleFiles("fieldname", directoryToUploadTo)
 ```
 
-The fnction will return an array of the paths to the newly uploaded files.
+The function will return an array of the paths to the newly uploaded files.
 
 ## How does it work?
 
